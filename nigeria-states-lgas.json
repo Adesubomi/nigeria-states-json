@@ -1,5 +1,5 @@
 [
-    {fips: 'NI45', hasc: 'NG.AB', state: 'Abia', capital: 'Umuahia', lgas: [
+    {'fips': 'NI45', 'hasc': 'NG.AB', 'state': 'Abia', 'capital': 'Umuahia', 'lgas': [
         {name: 'Ohafia', description: 'LGA in Abia State'},
         {name: 'Osisioma', description: 'LGA in Abia State'},
         {name: 'Ugwunagbo', description: 'LGA in Abia State'},
@@ -18,8 +18,8 @@
         {name: 'Isiala Ngwa South', description: 'LGA in Abia State'},
         {name: 'Isuikwuato', description: 'LGA in Abia State'},
         {name: 'Obi Ngwa', description: 'LGA in Abia State'},
-    ]}
-    {fips: 'NI35', hasc: 'NG.AD', state: 'Adamawa', capital: 'Yola', lgas: [
+    ]},
+    {'fips': 'NI35', 'hasc': 'NG.AD', 'state': 'Adamawa', 'capital': 'Yola', 'lgas': [
         {name: 'Demsa', description: 'LGA in Adamawa State'},
         {name: 'Fufure', description: 'LGA in Adamawa State'},
         {name: 'Ganye', description: 'LGA in Adamawa State'},
@@ -41,8 +41,8 @@
         {name: 'Toungo', description: 'LGA in Adamawa State'},
         {name: 'Yola North', description: 'LGA in Adamawa State'},
         {name: 'Yola South', description: 'LGA in Adamawa State'},
-    ]}
-    {fips: 'NI21', hasc: 'NG.AK', state: 'Akwa Ibom', capital: 'Uyo', lgas: [
+    ]},
+    {'fips': 'NI21', 'hasc': 'NG.AK', 'state': 'Akwa Ibom', 'capital': 'Uyo', 'lgas': [
         {name: 'Abak', description: 'LGA in Akwa Ibom State'},
         {name: 'Eastern Obolo', description: 'LGA in Akwa Ibom State'},
         {name: 'Eket', description: 'LGA in Akwa Ibom State'},
@@ -75,8 +75,8 @@
         {name: 'Urue-Offong/Oruko', description: 'LGA in Akwa Ibom State'},
         {name: 'Uyo', description: 'LGA in Akwa Ibom State'},
         {name: 'Obot Akara', description: 'LGA in Akwa Ibom State'},
-    ]}
-    {fips: 'NI25', hasc: 'NG.AN', state: 'Anambra', capital: 'Awka', lgas: [
+    ]},
+    {'fips': 'NI25', 'hasc': 'NG.AN', 'state': 'Anambra', 'capital': 'Awka', 'lgas': [
         {name: 'Aguata', description: 'LGA in Anambra State'},
         {name: 'Anambra East', description: 'LGA in Anambra State'},
         {name: 'Anambra West', description: 'LGA in Anambra State'},
@@ -98,8 +98,8 @@
         {name: 'Orumba North', description: 'LGA in Anambra State'},
         {name: 'Orumba South', description: 'LGA in Anambra State'},
         {name: 'Oyi', description: 'LGA in Anambra State'},
-    ]}
-    {fips: 'NI46', hasc: 'NG.BA', state: 'Bauchi', capital: 'Bauchi', lgas: [
+    ]},
+    {'fips': 'NI46', 'hasc': 'NG.BA', 'state': 'Bauchi', 'capital': 'Bauchi', 'lgas': [
         {name: 'Alkaleri', description: 'LGA in Bauchi State'},
         {name: 'Bauchi', description: 'LGA in Bauchi State'},
         {name: 'Bogoro', description: 'LGA in Bauchi State'},
@@ -120,8 +120,8 @@
         {name: 'Toro', description: 'LGA in Bauchi State'},
         {name: 'Warji', description: 'LGA in Bauchi State'},
         {name: 'Zaki', description: 'LGA in Bauchi State'},
-    ]}
-    {fips: 'NI52', hasc: 'NG.BY', state: 'Bayelsa', capital: 'Yenagoa', lgas: [
+    ]},
+    {'fips': 'NI52', 'hasc': 'NG.BY', 'state': 'Bayelsa', 'capital': 'Yenagoa', 'lgas': [
         {name: 'Brass', description: 'LGA in Bayelsa State'},
         {name: 'Ekeremor', description: 'LGA in Bayelsa State'},
         {name: 'Kolokuma/Opokuma', description: 'LGA in Bayelsa State'},
@@ -130,8 +130,8 @@
         {name: 'Sagbama', description: 'LGA in Bayelsa State'},
         {name: 'Southern Ijaw', description: 'LGA in Bayelsa State'},
         {name: 'Yenagoa', description: 'LGA in Bayelsa State'},
-    ]}
-    {fips: 'NI26', hasc: 'NG.BE', state: 'Benue', capital: 'Makurdi', lgas: [
+    ]},
+    {'fips': 'NI26', 'hasc': 'NG.BE', 'state': 'Benue', 'capital': 'Makurdi', 'lgas': [
         {name: 'Agatu', description: 'LGA in Benue State'},
         {name: 'Apa', description: 'LGA in Benue State'},
         {name: 'Ado', description: 'LGA in Benue State'},
@@ -156,8 +156,8 @@
         {name: 'Ushongo', description: 'LGA in Benue State'},
         {name: 'Vandeikya', description: 'LGA in Benue State'},
         {name: 'Obi', description: 'LGA in Benue State'},
-    ]}
-    {fips: 'NI27', hasc: 'NI.BO', state: 'Borno', capital: 'Maiduguri', lgas: [
+    ]},
+    {'fips': 'NI27', 'hasc': 'NI.BO', 'state': 'Borno', 'capital': 'Maiduguri', 'lgas': [
         {name: 'Abadam', description: 'LGA in Borno State'},
         {name: 'Askira/Uba', description: 'LGA in Borno State'},
         {name: 'Bama', description: 'LGA in Borno State'},
@@ -185,8 +185,8 @@
         {name: 'Ngala', description: 'LGA in Borno State'},
         {name: 'Nganzai', description: 'LGA in Borno State'},
         {name: 'Shani', description: 'LGA in Borno State'},
-    ]}
-    {fips: 'NI22', hasc: 'NI.CR', state: 'Cross Rivers', capital: 'Calabar', lgas: [
+    ]},
+    {'fips': 'NI22', 'hasc': 'NI.CR', 'state': 'Cross Rivers', 'capital': 'Calabar', 'lgas': [
         {name: 'Abi', description: 'LGA in Cross River State'},
         {name: 'Akamkpa', description: 'LGA in Cross River State'},
         {name: 'Akpabuyo', description: 'LGA in Cross River State'},
@@ -206,8 +206,8 @@
         {name: 'Yakuur', description: 'LGA in Cross River State'},
         {name: 'Obubra', description: 'LGA in Cross River State'},
         {name: 'Yala', description: 'LGA in Cross River State'},
-    ]}
-    {fips: 'NI36', hasc: 'NI.DE', state: 'Delta', capital: 'Asaba', lgas: [
+    ]},
+    {'fips': 'NI36', 'hasc': 'NI.DE', 'state': 'Delta', 'capital': 'Asaba', 'lgas': [
         {name: 'Aniocha North', description: 'LGA in Delta State'},
         {name: 'Aniocha South', description: 'LGA in Delta State'},
         {name: 'Bomadi', description: 'LGA in Delta State'},
@@ -233,8 +233,8 @@
         {name: 'Warri North', description: 'LGA in Delta State'},
         {name: 'Warri South', description: 'LGA in Delta State'},
         {name: 'Warri South West', description: 'LGA in Delta State'},
-    ]}
-    {fips: 'NI53', hasc: 'NI.EB', state: 'Ebonyi', capital: 'Abakaliki', lgas: [
+    ]},
+    {'fips': 'NI53', 'hasc': 'NI.EB', 'state': 'Ebonyi', 'capital': 'Abakaliki', 'lgas': [
         {name: 'Abakaliki', description: 'LGA in Ebonyi State'},
         {name: 'Afikpo North', description: 'LGA in Ebonyi State'},
         {name: 'Afikpo South (Edda)', description: 'LGA in Ebonyi State'},
@@ -248,8 +248,8 @@
         {name: 'Ohaozara', description: 'LGA in Ebonyi State'},
         {name: 'Ohaukwu', description: 'LGA in Ebonyi State'},
         {name: 'Onicha', description: 'LGA in Ebonyi State'},
-    ]}
-    {fips: 'NI37', hasc: 'NG.ED', state: 'Edo', capital: 'Benin', lgas: [
+    ]},
+    {'fips': 'NI37', 'hasc': 'NG.ED', 'state': 'Edo', 'capital': 'Benin', 'lgas': [
         {name: 'Akoko-Edo', description: 'LGA in Edo State'},
         {name: 'Egor', description: 'LGA in Edo State'},
         {name: 'Esan Central', description: 'LGA in Edo State'},
@@ -268,8 +268,8 @@
         {name: 'Owan East', description: 'LGA in Edo State'},
         {name: 'Owan West', description: 'LGA in Edo State'},
         {name: 'Uhunmwonde', description: 'LGA in Edo State'},
-    ]}
-    {fips: 'NI54', hasc: 'NG.EK', state: 'Ekiti', capital: 'Ado-Ekiti', lgas: [
+    ]},
+    {'fips': 'NI54', 'hasc': 'NG.EK', 'state': 'Ekiti', 'capital': 'Ado-Ekiti', 'lgas': [
         {name: 'Ado Ekiti', description: 'LGA in Ekiti State'},
         {name: 'Efon', description: 'LGA in Ekiti State'},
         {name: 'Ekiti East', description: 'LGA in Ekiti State'},
@@ -286,8 +286,8 @@
         {name: 'Ise/Orun', description: 'LGA in Ekiti State'},
         {name: 'Moba', description: 'LGA in Ekiti State'},
         {name: 'Oye', description: 'LGA in Ekiti State'},
-    ]}
-    {fips: 'NI47', hasc: 'NG.EN', state: 'Enugu', capital: 'Enugu', lgas: [
+    ]},
+    {'fips': 'NI47', 'hasc': 'NG.EN', 'state': 'Enugu', 'capital': 'Enugu', 'lgas': [
         {name: 'Aninri', description: 'LGA in Enugu State'},
         {name: 'Awgu', description: 'LGA in Enugu State'},
         {name: 'Enugu East', description: 'LGA in Enugu State'},
@@ -305,16 +305,16 @@
         {name: 'Udenu', description: 'LGA in Enugu State'},
         {name: 'Udi', description: 'LGA in Enugu State'},
         {name: 'Uzo-Uwani', description: 'LGA in Enugu State'},
-    ]}
-    {fips: 'NI11', hasc: 'NG.FC', state: 'FCT', capital: 'Abuja', lgas: [
+    ]},
+    {'fips': 'NI11', 'hasc': 'NG.FC', 'state': 'FCT', 'capital': 'Abuja', 'lgas': [
         {name: 'Abaji', description: 'LGA in FCT'},
         {name: 'Bwari', description: 'LGA in FCT'},
         {name: 'Gwagwalada', description: 'LGA in FCT'},
         {name: 'Kuje', description: 'LGA in FCT'},
         {name: 'Kwali', description: 'LGA in FCT'},
         {name: 'Municipal Area Council', description: 'LGA in FCT'},
-    ]}
-    {fips: 'NI55', hasc: 'NG.GO', state: 'Gombe', capital: 'Gombe', lgas: [
+    ]},
+    {'fips': 'NI55', 'hasc': 'NG.GO', 'state': 'Gombe', 'capital': 'Gombe', 'lgas': [
         {name: 'Akko', description: 'LGA in Gombe State'},
         {name: 'Balanga', description: 'LGA in Gombe State'},
         {name: 'Billiri', description: 'LGA in Gombe State'},
@@ -326,8 +326,8 @@
         {name: 'Nafada', description: 'LGA in Gombe State'},
         {name: 'Shongom', description: 'LGA in Gombe State'},
         {name: 'Yamaltu/Deba', description: 'LGA in Gombe State'},
-    ]}
-    {fips: 'NI28', hasc: 'NG.IM', state: 'Imo', capital: 'Owerri', lgas: [
+    ]},
+    {'fips': 'NI28', 'hasc': 'NG.IM', 'state': 'Imo', 'capital': 'Owerri', 'lgas': [
         {name: 'Aboh Mbaise', description: 'LGA in Imo State'},
         {name: 'Ahiazu Mbaise', description: 'LGA in Imo State'},
         {name: 'Ehime Mbano', description: 'LGA in Imo State'},
@@ -356,8 +356,8 @@
         {name: 'Owerri West', description: 'LGA in Imo State'},
         {name: 'Unuimo', description: 'LGA in Imo State'},
         {name: 'Obowo', description: 'LGA in Imo State'},
-    ]}
-    {fips: 'NI39', hasc: 'NG.JI', state: 'Jigawa', capital: 'Dutse', lgas: [
+    ]},
+    {'fips': 'NI39', 'hasc': 'NG.JI', 'state': 'Jigawa', 'capital': 'Dutse', 'lgas': [
         {name: 'Hadejia', description: 'LGA in Jigawa State'},
         {name: 'Auyo', description: 'LGA in Jigawa State'},
         {name: 'Babura', description: 'LGA in Jigawa State'},
@@ -385,8 +385,8 @@
         {name: 'Sule Tankarkar', description: 'LGA in Jigawa State'},
         {name: 'Taura', description: 'LGA in Jigawa State'},
         {name: 'Yankwashi', description: 'LGA in Jigawa State'},
-    ]}
-    {fips: 'NI23', hasc: 'NG.KD', state: 'Kaduna', capital: 'Kaduna', lgas: [
+    ]},
+    {'fips': 'NI23', 'hasc': 'NG.KD', 'state': 'Kaduna', 'capital': 'Kaduna', 'lgas': [
         {name: 'Birnin Gwari', description: 'LGA in Kaduna State'},
         {name: 'Chikun', description: 'LGA in Kaduna State'},
         {name: 'Giwa', description: 'LGA in Kaduna State'},
@@ -410,8 +410,8 @@
         {name: 'Soba', description: 'LGA in Kaduna State'},
         {name: 'Zangon Kataf', description: 'LGA in Kaduna State'},
         {name: 'Zaria', description: 'LGA in Kaduna State'},
-    ]}
-    {fips: 'NI29', hasc: 'NG.KN', state: 'Kano', capital: 'Kano', lgas: [
+    ]},
+    {'fips': 'NI29', 'hasc': 'NG.KN', 'state': 'Kano', 'capital': 'Kano', 'lgas': [
         {name: 'Ajingi', description: 'LGA in Kano State'},
         {name: 'Albasu', description: 'LGA in Kano State'},
         {name: 'Bagwai', description: 'LGA in Kano State'},
@@ -456,8 +456,8 @@
         {name: 'Ungogo', description: 'LGA in Kano State'},
         {name: 'Warawa', description: 'LGA in Kano State'},
         {name: 'Wudil', description: 'LGA in Kano State'},
-    ]}
-    {fips: 'NI24', hasc: 'NG.KT', state: 'Katsina', capital: 'Katsina', lgas: [
+    ]},
+    {'fips': 'NI24', 'hasc': 'NG.KT', 'state': 'Katsina', 'capital': 'Katsina', 'lgas': [
         {name: 'Bakori', description: 'LGA in Katsina State'},
         {name: 'Batagarawa', description: 'LGA in Katsina State'},
         {name: 'Batsari', description: 'LGA in Katsina State'},
@@ -492,8 +492,8 @@
         {name: 'Safana', description: 'LGA in Katsina State'},
         {name: 'Sandamu', description: 'LGA in Katsina State'},
         {name: 'Zango', description: 'LGA in Katsina State'},
-    ]}
-    {fips: 'NI40', hasc: 'NG.KE', state: 'Kebbi', capital: 'Birnin Kebbi', lgas: [
+    ]},
+    {'fips': 'NI40', 'hasc': 'NG.KE', 'state': 'Kebbi', 'capital': 'Birnin Kebbi', 'lgas': [
         {name: 'Aleiro', description: 'LGA in Kebbi State'},
         {name: 'Arewa Dandi', description: 'LGA in Kebbi State'},
         {name: 'Argungu', description: 'LGA in Kebbi State'},
@@ -515,8 +515,8 @@
         {name: 'Wasagu/Danko', description: 'LGA in Kebbi State'},
         {name: 'Yauri', description: 'LGA in Kebbi State'},
         {name: 'Zuru', description: 'LGA in Kebbi State'},
-    ]}
-    {fips: 'NI41', hasc: 'NG.KO', state: 'Kogi', capital: 'Lokoja', lgas: [
+    ]},
+    {'fips': 'NI41', 'hasc': 'NG.KO', 'state': 'Kogi', 'capital': 'Lokoja', 'lgas': [
         {name: 'Adavi', description: 'LGA in Kogi State'},
         {name: 'Ajaokuta', description: 'LGA in Kogi State'},
         {name: 'Ankpa', description: 'LGA in Kogi State'},
@@ -538,8 +538,8 @@
         {name: 'Omala', description: 'LGA in Kogi State'},
         {name: 'Yagba East', description: 'LGA in Kogi State'},
         {name: 'Yagba West', description: 'LGA in Kogi State'},
-    ]}
-    {fips: 'NI30', hasc: 'NG.KW', state: 'Kwara', capital: 'Ilorin', lgas: [
+    ]},
+    {'fips': 'NI30', 'hasc': 'NG.KW', 'state': 'Kwara', 'capital': 'Ilorin', 'lgas': [
         {name: 'Asa', description: 'LGA in Kwara State'},
         {name: 'Baruten', description: 'LGA in Kwara State'},
         {name: 'Edu', description: 'LGA in Kwara State'},
@@ -556,8 +556,8 @@
         {name: 'Oke Ero', description: 'LGA in Kwara State'},
         {name: 'Oyun', description: 'LGA in Kwara State'},
         {name: 'Pategi', description: 'LGA in Kwara State'},
-    ]}
-    {fips: 'NI05', hasc: 'NG.LA', state: 'Lagos', capital: 'Ikeja', lgas: [
+    ]},
+    {'fips': 'NI05', 'hasc': 'NG.LA', 'state': 'Lagos', 'capital': 'Ikeja', 'lgas': [
         {name: 'Agege', description: 'LGA in Lagos State'},
         {name: 'Ajeromi-Ifelodun', description: 'LGA in Lagos State'},
         {name: 'Alimosho', description: 'LGA in Lagos State'},
@@ -578,8 +578,8 @@
         {name: 'Oshodi-Isolo', description: 'LGA in Lagos State'},
         {name: 'Shomolu', description: 'LGA in Lagos State'},
         {name: 'Surulere', description: 'LGA in Lagos State'},
-    ]}
-    {fips: 'NI56', hasc: 'NG.NA', state: 'Nasarawa', capital: 'Lafia', lgas: [
+    ]},
+    {'fips': 'NI56', 'hasc': 'NG.NA', 'state': 'Nasarawa', 'capital': 'Lafia', 'lgas': [
         {name: 'Akwanga', description: 'LGA in Nasarawa State'},
         {name: 'Awe', description: 'LGA in Nasarawa State'},
         {name: 'Doma', description: 'LGA in Nasarawa State'},
@@ -594,8 +594,8 @@
         {name: 'Toto', description: 'LGA in Nasarawa State'},
         {name: 'Wamba', description: 'LGA in Nasarawa State'},
         {name: 'Obi', description: 'LGA in Nasarawa State'},
-    ]}
-    {fips: 'NI31', hasc: 'NG.NI', state: 'Niger', capital: 'Minna', lgas: [
+    ]},
+    {'fips': 'NI31', 'hasc': 'NG.NI', 'state': 'Niger', 'capital': 'Minna', 'lgas': [
         {name: 'Agaie', description: 'LGA in Niger State'},
         {name: 'Agwara', description: 'LGA in Niger State'},
         {name: 'Bida', description: 'LGA in Niger State'},
@@ -621,8 +621,8 @@
         {name: 'Suleja', description: 'LGA in Niger State'},
         {name: 'Tafa', description: 'LGA in Niger State'},
         {name: 'Wushishi', description: 'LGA in Niger State'},
-    ]}
-    {fips: 'NI16', hasc: 'NG.OG', state: 'Ogun', capital: 'Abeokuta', lgas: [
+    ]},
+    {'fips': 'NI16', 'hasc': 'NG.OG', 'state': 'Ogun', 'capital': 'Abeokuta', 'lgas': [
         {name: 'Abeokuta North', description: 'LGA in Ogun State'},
         {name: 'Abeokuta South', description: 'LGA in Ogun State'},
         {name: 'Ado-Odo/Ota', description: 'LGA in Ogun State'},
@@ -643,8 +643,8 @@
         {name: 'Ogun Waterside', description: 'LGA in Ogun State'},
         {name: 'Remo North', description: 'LGA in Ogun State'},
         {name: 'Shagamu', description: 'LGA in Ogun State'},
-    ]}
-    {fips: 'NI48', hasc: 'NG.ON', state: 'Ondo', capital: 'Akure', lgas: [
+    ]},
+    {'fips': 'NI48', 'hasc': 'NG.ON', 'state': 'Ondo', 'capital': 'Akure', 'lgas': [
         {name: 'Akoko North-East', description: 'LGA in Ondo State'},
         {name: 'Akoko North-West', description: 'LGA in Ondo State'},
         {name: 'Akoko South-West', description: 'LGA in Ondo State'},
@@ -663,8 +663,8 @@
         {name: 'Ondo West', description: 'LGA in Ondo State'},
         {name: 'Ose', description: 'LGA in Ondo State'},
         {name: 'Owo', description: 'LGA in Ondo State'},
-    ]}
-    {fips: 'NI42', hasc: 'NG.OS', state: 'Osun', capital: 'Oshogbo', lgas: [
+    ]},
+    {'fips': 'NI42', 'hasc': 'NG.OS', 'state': 'Osun', 'capital': 'Oshogbo', 'lgas': [
         {name: 'Atakunmosa East', description: 'LGA in Osun State'},
         {name: 'Atakunmosa West', description: 'LGA in Osun State'},
         {name: 'Aiyedaade', description: 'LGA in Osun State'},
@@ -696,8 +696,8 @@
         {name: 'Orolu', description: 'LGA in Osun State'},
         {name: 'Osogbo', description: 'LGA in Osun State'},
         {name: 'Obokun', description: 'LGA in Osun State'},
-    ]}
-    {fips: 'NI32', hasc: 'NG.OY', state: 'Oyo', capital: 'Ibadan', lgas: [
+    ]},
+    {'fips': 'NI32', 'hasc': 'NG.OY', 'state': 'Oyo', 'capital': 'Ibadan', 'lgas': [
         {name: 'Afijio', description: 'LGA in Oyo State'},
         {name: 'Akinyele', description: 'LGA in Oyo State'},
         {name: 'Atiba', description: 'LGA in Oyo State'},
@@ -731,8 +731,8 @@
         {name: 'Saki East', description: 'LGA in Oyo State'},
         {name: 'Saki West', description: 'LGA in Oyo State'},
         {name: 'Surulere', description: 'LGA in Oyo State'},
-    ]}
-    {fips: 'NI49', hasc: 'NG.PL', state: 'Plateau', capital: 'Jos', lgas: [
+    ]},
+    {'fips': 'NI49', 'hasc': 'NG.PL', 'state': 'Plateau', 'capital': 'Jos', 'lgas': [
         {name: 'Bokkos', description: 'LGA in Plateau State'},
         {name: 'Barkin Ladi', description: 'LGA in Plateau State'},
         {name: 'Bassa', description: 'LGA in Plateau State'},
@@ -750,8 +750,8 @@
         {name: 'Riyom', description: 'LGA in Plateau State'},
         {name: 'Shendam', description: 'LGA in Plateau State'},
         {name: 'Wase', description: 'LGA in Plateau State'},
-    ]}
-    {fips: 'NI50', hasc: 'NG.RI', state: 'Rivers', capital: 'Port Harcourt', lgas: [
+    ]},
+    {'fips': 'NI50', 'hasc': 'NG.RI', 'state': 'Rivers', 'capital': 'Port Harcourt', 'lgas': [
         {name: 'Abua/Odual', description: 'LGA in Rivers State'},
         {name: 'Ahoada East', description: 'LGA in Rivers State'},
         {name: 'Ahoada West', description: 'LGA in Rivers State'},
@@ -776,8 +776,8 @@
         {name: 'Port Harcourt', description: 'LGA in Rivers State'},
         {name: 'Tai', description: 'LGA in Rivers State'},
         {name: 'Obio/Akpor', description: 'LGA in Rivers State'},
-    ]}
-    {fips: 'NI51', hasc: 'NG.SO', state: 'Sokoto', capital: 'Sokoto', lgas: [
+    ]},
+    {'fips': 'NI51', 'hasc': 'NG.SO', 'state': 'Sokoto', 'capital': 'Sokoto', 'lgas': [
         {name: 'Binji', description: 'LGA in Sokoto State'},
         {name: 'Bodinga', description: 'LGA in Sokoto State'},
         {name: 'Dange Shuni', description: 'LGA in Sokoto State'},
@@ -801,8 +801,8 @@
         {name: 'Wamako', description: 'LGA in Sokoto State'},
         {name: 'Wurno', description: 'LGA in Sokoto State'},
         {name: 'Yabo', description: 'LGA in Sokoto State'},
-    ]}
-    {fips: 'NI43', hasc: 'NG.TA', state: 'Taraba', capital: 'Jalingo', lgas: [
+    ]},
+    {'fips': 'NI43', 'hasc': 'NG.TA', 'state': 'Taraba', 'capital': 'Jalingo', 'lgas': [
         {name: 'Ardo Kola', description: 'LGA in Taraba State'},
         {name: 'Bali', description: 'LGA in Taraba State'},
         {name: 'Donga', description: 'LGA in Taraba State'},
@@ -819,8 +819,8 @@
         {name: 'Wukari', description: 'LGA in Taraba State'},
         {name: 'Yorro', description: 'LGA in Taraba State'},
         {name: 'Zing', description: 'LGA in Taraba State'},
-    ]}
-    {fips: 'NI44', hasc: 'NG.YO', state: 'Yobe', capital: 'Damaturu', lgas: [
+    ]},
+    {'fips': 'NI44', 'hasc': 'NG.YO', 'state': 'Yobe', 'capital': 'Damaturu', 'lgas': [
         {name: 'Bade', description: 'LGA in Yobe State'},
         {name: 'Bursari', description: 'LGA in Yobe State'},
         {name: 'Damaturu', description: 'LGA in Yobe State'},
@@ -838,8 +838,8 @@
         {name: 'Tarmuwa', description: 'LGA in Yobe State'},
         {name: 'Yunusari', description: 'LGA in Yobe State'},
         {name: 'Yusufari', description: 'LGA in Yobe State'},
-    ]}
-    {fips: 'NI57', hasc: 'NG.ZA', state: 'Zamfara', capital: 'Gusau', lgas: [
+    ]},
+    {'fips': 'NI57', 'hasc': 'NG.ZA', 'state': 'Zamfara', 'capital': 'Gusau', 'lgas': [
         {name: 'Anka', description: 'LGA in Zamfara State'},
         {name: 'Bakura', description: 'LGA in Zamfara State'},
         {name: 'Birnin Magaji/Kiyaw', description: 'LGA in Zamfara State'},
@@ -854,5 +854,5 @@
         {name: 'Talata Mafara', description: 'LGA in Zamfara State'},
         {name: 'Chafe', description: 'LGA in Zamfara State'},
         {name: 'Zurmi', description: 'LGA in Zamfara State'},
-    ]}
+    ]},
 ]
